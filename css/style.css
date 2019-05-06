@@ -623,7 +623,7 @@ h2.blog.menu-item:before {
 }
 
 h2.contact.menu-item:before {
-    content: '04';
+    content: '03';
 }
 
 .menu-block:hover h2.menu-item:before {
@@ -1082,7 +1082,7 @@ h2.menu-item:after {
 }
 
 .info-list {
-    border-bottom: 1px solid #ddd;
+    /*border-bottom: 1px solid #ddd;*/
     border-top: 1px solid #ddd;
     padding-bottom: 20px;
     padding-top: 20px;
