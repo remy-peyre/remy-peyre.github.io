@@ -34,6 +34,9 @@
                         0. General Styles
 
 -------------------------------------------------------------------*/
+.whiteColor{
+    color: white;
+}
 
 body {
     font: 400 14px 'Poppins', sans-serif;
